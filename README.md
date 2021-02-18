@@ -1,6 +1,6 @@
 # card_learn_bot
 
-![Start](/images/prtsc1.jpeg) ![Check](/images/prtsc1.jpeg)
+![Start](/images/prtsc1.png) ![Check](/images/prtsc1.png)
 This bot might help people to learn new words in foreign language.
 Add your cards with bot and it will ask you for translation after 2 days, 1 week nad 2 weeks.
 ## Installation
